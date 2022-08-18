@@ -1,0 +1,13 @@
+:root {
+  --background-main: #1e1e28;
+  --background-header: #2c2c38;
+  --icon-color: #ffc107;
+}
+
+body {
+  background-color: var(--background-main);
+}
+
+ion-icon {
+  color: rgba(255, 255, 255, 0.8);
+}
